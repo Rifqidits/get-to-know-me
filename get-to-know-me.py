@@ -91,7 +91,6 @@ genre = st.multiselect(
 
 st.title("Documentation")
 st.header("Growing Up Rifqi")
-st.title('Belajar Analisis Data')
 tab1, tab2, tab3 = st.tabs(["Tab 1", "Tab 2", "Tab 3"])
 with tab1:
     st.header("Junior High School")
